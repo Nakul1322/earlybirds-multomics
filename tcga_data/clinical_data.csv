@@ -1,0 +1,101 @@
+patient_id,age_at_diagnosis,tumor_stage,er_status,pr_status,her2_status,pam50_subtype,survival_days,vital_status
+TCGA-00,67.45071229516849,Stage II,Positive,Positive,Positive,Basal,1874.2378124340387,Alive
+TCGA-01,57.92603548243223,Stage II,Positive,Negative,Negative,Normal,3383.65013149592,Dead
+TCGA-02,69.71532807151038,Stage I,Positive,Positive,Negative,Normal,1075.1686683126013,Alive
+TCGA-03,82.84544784612038,Stage II,Positive,Positive,Positive,Luminal B,1139.2942535296033,Alive
+TCGA-04,56.48769937914996,Stage IV,Positive,Positive,Positive,Basal,170.04200781099507,Alive
+TCGA-05,56.487945645762295,Stage II,Positive,Positive,Negative,Basal,889.7148691253262,Dead
+TCGA-06,83.68819223261087,Stage II,Positive,Negative,Positive,Basal,1140.910198582935,Alive
+TCGA-07,71.51152093729362,Stage III,Positive,Negative,Negative,Luminal A,416.53920489098,Dead
+TCGA-08,52.95788421097572,Stage II,Positive,Positive,Negative,Luminal B,470.51191781781574,Alive
+TCGA-09,68.13840065378947,Stage IV,Positive,Positive,Positive,Luminal A,710.497477203708,Alive
+TCGA-10,53.04873460781307,Stage IV,Negative,Positive,Positive,Normal,30.41304112547177,Alive
+TCGA-11,53.01405369644615,Stage II,Negative,Positive,Negative,HER2,583.0871418842037,Alive
+TCGA-12,63.629434073490515,Stage II,Negative,Positive,Negative,Luminal A,356.3354034354448,Alive
+TCGA-13,31.300796330133032,Stage II,Positive,Positive,Negative,HER2,595.123845347974,Alive
+TCGA-14,34.12623251230451,Stage II,Positive,Positive,Negative,HER2,191.3446549271719,Alive
+TCGA-15,51.56568706138541,Stage I,Negative,Positive,Negative,Luminal A,3318.119849914537,Dead
+TCGA-16,44.80753319498364,Stage III,Positive,Positive,Negative,Luminal A,1350.5982208193398,Alive
+TCGA-17,64.71370998892911,Stage II,Negative,Positive,Negative,HER2,1704.9494368395474,Alive
+TCGA-18,46.37963886718184,Stage I,Negative,Positive,Negative,Luminal B,2335.0635485666867,Dead
+TCGA-19,38.81544447997062,Stage II,Negative,Positive,Positive,Basal,1035.0546327733277,Alive
+TCGA-20,81.98473153382331,Stage IV,Positive,Positive,Negative,Luminal B,136.39814177618376,Alive
+TCGA-21,56.61335549270196,Stage II,Positive,Negative,Negative,Basal,1155.387544942234,Dead
+TCGA-22,61.012923070318855,Stage I,Negative,Positive,Negative,Luminal B,1325.8845868070605,Alive
+TCGA-23,38.62877720679815,Stage II,Positive,Positive,Negative,Luminal B,2052.324973212614,Alive
+TCGA-24,51.834259132122256,Stage IV,Positive,Positive,Positive,Basal,847.5519740744732,Alive
+TCGA-25,61.663838845647994,Stage II,Positive,Positive,Negative,Luminal B,204.72700009396834,Alive
+TCGA-26,42.73509633866546,Stage III,Negative,Positive,Positive,Luminal A,500.64327039255585,Alive
+TCGA-27,65.63547027518509,Stage III,Positive,Positive,Negative,Luminal A,676.6722382119352,Alive
+TCGA-28,50.99041965121793,Stage II,Positive,Negative,Positive,Basal,1557.3369174327925,Dead
+TCGA-29,55.62459375310085,Stage III,Positive,Positive,Positive,HER2,1268.6725818021293,Alive
+TCGA-30,50.97440081655905,Stage II,Positive,Positive,Positive,HER2,660.3101394777093,Alive
+TCGA-31,87.78417276763406,Stage III,Negative,Positive,Negative,Luminal A,5000.0,Alive
+TCGA-32,59.79754162893099,Stage III,Positive,Positive,Negative,Luminal A,1396.249512700814,Alive
+TCGA-33,44.13433606566149,Stage II,Positive,Positive,Negative,Luminal A,406.19179313519993,Alive
+TCGA-34,72.33817368154783,Stage I,Negative,Negative,Negative,Luminal A,161.01450693733028,Alive
+TCGA-35,41.68734525043467,Stage III,Positive,Positive,Negative,Luminal B,248.83243888473882,Alive
+TCGA-36,63.132953925071334,Stage II,Positive,Negative,Negative,Luminal A,423.4602740927114,Alive
+TCGA-37,30.604948141803366,Stage I,Positive,Negative,Negative,Luminal B,262.74731243144106,Dead
+TCGA-38,40.07720926652354,Stage I,Positive,Positive,Negative,Basal,309.73761818187063,Alive
+TCGA-39,62.952918538036855,Stage II,Positive,Positive,Negative,Luminal A,503.4087723231698,Dead
+TCGA-40,71.07699869993115,Stage III,Negative,Positive,Positive,Luminal B,285.6036504943305,Alive
+TCGA-41,62.57052421784956,Stage I,Negative,Positive,Negative,Basal,3406.127174033873,Dead
+TCGA-42,58.265275764176394,Stage II,Negative,Positive,Positive,Luminal A,125.45356888800023,Alive
+TCGA-43,55.48344456616067,Stage II,Negative,Positive,Negative,HER2,1115.118525169054,Alive
+TCGA-44,37.82217014448859,Stage III,Positive,Positive,Negative,Basal,792.4583347339535,Alive
+TCGA-45,49.20233687407937,Stage I,Positive,Positive,Negative,Basal,5000.0,Alive
+TCGA-46,53.09041843560319,Stage III,Positive,Negative,Positive,Luminal A,178.24101854610734,Alive
+TCGA-47,75.85683339328374,Stage II,Positive,Positive,Negative,Basal,760.8869906136456,Alive
+TCGA-48,65.15427434352692,Stage IV,Positive,Negative,Negative,Luminal B,5000.0,Alive
+TCGA-49,33.554397669558995,Stage I,Positive,Positive,Negative,Luminal A,3009.366092952232,Alive
+TCGA-50,64.86125954092192,Stage II,Negative,Positive,Negative,Luminal B,2547.9945510542693,Alive
+TCGA-51,54.22376579375525,Stage I,Positive,Positive,Negative,Normal,447.41262530025693,Alive
+TCGA-52,49.84616999541062,Stage IV,Positive,Positive,Negative,Luminal B,281.0992991797313,Alive
+TCGA-53,69.17514433261302,Stage III,Positive,Negative,Negative,Luminal A,1656.8393980226754,Alive
+TCGA-54,75.46499283743927,Stage II,Positive,Negative,Negative,HER2,3975.5776424399332,Alive
+TCGA-55,73.96920178674299,Stage III,Positive,Negative,Negative,Luminal A,1220.4756328571134,Dead
+TCGA-56,47.41173715166042,Stage III,Positive,Positive,Positive,Luminal A,1271.5913421878797,Alive
+TCGA-57,55.36181436223178,Stage II,Positive,Positive,Negative,Luminal A,492.71254621597626,Alive
+TCGA-58,64.96895147105346,Stage II,Positive,Negative,Negative,Luminal A,2201.2106376181328,Alive
+TCGA-59,74.63317690683539,Stage II,Positive,Negative,Negative,Luminal A,310.6169732191063,Dead
+TCGA-60,52.81238643232065,Stage I,Positive,Negative,Negative,Luminal A,586.631719678849,Alive
+TCGA-61,57.215115350042744,Stage III,Positive,Positive,Negative,HER2,831.2168251047458,Alive
+TCGA-62,43.40497538990958,Stage IV,Negative,Positive,Negative,Luminal A,1062.7274439670477,Alive
+TCGA-63,42.05690063878994,Stage III,Positive,Negative,Negative,Luminal A,416.4188753544087,Alive
+TCGA-64,72.18788733591298,Stage II,Positive,Positive,Negative,Basal,182.97490821620318,Alive
+TCGA-65,80.34360042856234,Stage II,Positive,Negative,Negative,Luminal B,1414.7994861440347,Dead
+TCGA-66,58.91984817629499,Stage III,Positive,Negative,Negative,HER2,510.84505265481266,Dead
+TCGA-67,75.05299346838036,Stage III,Positive,Positive,Positive,Luminal A,1305.6796024386654,Alive
+TCGA-68,65.42454037571451,Stage III,Positive,Negative,Negative,Luminal A,251.4971291560197,Alive
+TCGA-69,50.323203680923136,Stage III,Positive,Negative,Negative,Luminal A,984.1820670427913,Dead
+TCGA-70,65.4209340826262,Stage III,Positive,Positive,Negative,Luminal A,1140.8208721936167,Alive
+TCGA-71,83.07054849698955,Stage I,Positive,Negative,Negative,Luminal A,79.82197718568199,Alive
+TCGA-72,59.46260941335073,Stage I,Positive,Positive,Negative,Luminal A,615.5754020706348,Alive
+TCGA-73,83.4696548372101,Stage III,Positive,Negative,Negative,Luminal A,216.52399024789742,Alive
+TCGA-74,30.0,Stage III,Positive,Positive,Negative,Luminal A,98.20838815878733,Alive
+TCGA-75,72.32853756562835,Stage I,Negative,Negative,Negative,Luminal B,5000.0,Alive
+TCGA-76,61.30570602357257,Stage I,Positive,Positive,Negative,Luminal A,583.6950337791304,Dead
+TCGA-77,55.51488974301199,Stage III,Positive,Positive,Negative,Luminal A,2490.105920654848,Dead
+TCGA-78,61.37641164803254,Stage I,Positive,Negative,Negative,Luminal B,440.8332514401021,Alive
+TCGA-79,30.186466280986608,Stage I,Positive,Positive,Negative,HER2,1716.2120265305273,Alive
+TCGA-80,56.70492168243732,Stage II,Positive,Positive,Negative,Luminal A,2142.099334242313,Dead
+TCGA-81,65.35668857267619,Stage III,Positive,Negative,Negative,Basal,1358.1698912537097,Dead
+TCGA-82,82.16841067112274,Stage III,Positive,Negative,Negative,HER2,956.7849660679076,Alive
+TCGA-83,52.22594672589529,Stage II,Negative,Positive,Negative,Luminal A,796.1367202580666,Dead
+TCGA-84,47.87259595660218,Stage III,Negative,Positive,Positive,Basal,643.5649525559622,Dead
+TCGA-85,52.47364434623195,Stage II,Positive,Positive,Positive,Basal,3978.8340723311712,Alive
+TCGA-86,73.73103176553111,Stage II,Positive,Positive,Negative,Luminal A,2663.410606712697,Alive
+TCGA-87,64.93126664489526,Stage III,Positive,Positive,Negative,Luminal A,5000.0,Alive
+TCGA-88,52.05359694349442,Stage III,Positive,Positive,Negative,Basal,199.09281275415833,Alive
+TCGA-89,67.69901149670034,Stage III,Positive,Negative,Negative,HER2,1968.8270451907613,Alive
+TCGA-90,61.456163240220604,Stage III,Positive,Negative,Negative,Luminal A,4179.190897891861,Dead
+TCGA-91,74.52967485799334,Stage II,Positive,Negative,Negative,Luminal A,299.93371455119654,Alive
+TCGA-92,49.469203591839715,Stage I,Positive,Positive,Negative,Luminal A,103.2154762087453,Alive
+TCGA-93,55.085067801033475,Stage II,Positive,Positive,Negative,Luminal B,2027.089729782933,Alive
+TCGA-94,54.118377703017636,Stage II,Negative,Positive,Negative,HER2,1281.6407162980047,Alive
+TCGA-95,38.04727577801822,Stage II,Positive,Positive,Negative,Luminal A,2766.115711982217,Dead
+TCGA-96,64.44180415596864,Stage IV,Positive,Positive,Negative,Luminal B,225.8373696212889,Alive
+TCGA-97,63.91582908269834,Stage II,Positive,Negative,Negative,HER2,2379.0751665478024,Alive
+TCGA-98,60.07670184963691,Stage III,Positive,Positive,Positive,Luminal A,337.7696596005344,Alive
+TCGA-99,56.481192999372794,Stage III,Positive,Positive,Negative,Luminal A,268.072798448277,Alive

@@ -1,0 +1,4 @@
+Modality,Features,Samples,Missing (%)
+Clinical,8,1098,0.59
+RNA-Seq,60660,500,0.00
+Methylation,14164,1097,0.00

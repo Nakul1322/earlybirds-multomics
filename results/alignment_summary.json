@@ -1,0 +1,14 @@
+{
+  "modalities": [
+    "Clinical",
+    "RNASeq",
+    "Methylation"
+  ],
+  "kept_n": 491,
+  "kept_ids_path": "./results/alignment_samples_kept.txt",
+  "dropped_detail_paths": {
+    "Clinical": "./results/alignment_dropped_clinical.txt",
+    "RNASeq": "./results/alignment_dropped_rnaseq.txt",
+    "Methylation": "./results/alignment_dropped_methylation.txt"
+  }
+}
